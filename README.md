@@ -15,3 +15,5 @@ CREATE DATABASE aluna2
     
 Para excluir o banco de dados
 DROP DATABASE teste;
+
+Para saber sobre campos numericos: https://www.postgresql.org/docs/12/datatype-character.html
