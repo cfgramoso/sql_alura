@@ -13,7 +13,21 @@ CREATE DATABASE aluna2
     ENCODING = 'UTF8'
     CONNECTION LIMIT = -1;
     
-Para excluir o banco de dados
-DROP DATABASE teste;
+Comando para excluir o banco de dados DROP DATABASE teste;
 
 Para saber sobre campos numericos: https://www.postgresql.org/docs/12/datatype-character.html
+
+Tipos de campo que será utilizado:
+integer
+real
+serial
+numeric
+varchar(n)
+char(n)
+text
+boolean
+date
+time
+timestamp
+
+
