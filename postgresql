@@ -1,5 +1,5 @@
 
-/*Criar tabela;*/
+/*Criar tabela, onde será incluido ID, nome do aluno, cpf, idade, quanto de dinheiro o aluno tem e altura;*/
 
 CREATE TABLE aluno2(
         id SERIAL,
